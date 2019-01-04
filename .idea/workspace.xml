@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e60641e7-5a8d-4f74-a457-467c21cae93b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01-easy/01-recursively-sum-up-number/recursively-sum-up-number.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fizz-buzz/fizz-buzz.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-easy/02-fizz-buzz/fizz-buzz.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maximal-square/maximal-square.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-hard/01-maximal-square/maximal-square.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pentagonal-number/pentagonal-number.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-hard/02-pentagonal-number/pentagonal-number.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum-up-nested-array/sum-up-nested-array.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-medium/01-sum-up-nested-array/sum-up-nested-array.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two-sum-problem/two-sum-problem.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-medium/02-two-sum-problem/two-sum-problem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +36,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="7" />
+          <entry key="gitignore" value="8" />
           <entry key="js" value="3823" />
           <entry key="md" value="62" />
         </counts>
@@ -51,7 +45,7 @@
         <counts>
           <entry key="JavaScript" value="3490" />
           <entry key="Markdown" value="62" />
-          <entry key="PLAIN_TEXT" value="340" />
+          <entry key="PLAIN_TEXT" value="341" />
         </counts>
       </usages-collector>
     </session>
@@ -91,8 +85,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="7" selection-start-column="7" selection-end-column="7" />
+            <state relative-caret-position="30">
+              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -122,10 +116,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="547" />
-    <option name="y" value="-1057" />
-    <option name="width" value="1876" />
-    <option name="height" value="989" />
+    <option name="x" value="517" />
+    <option name="y" value="-1034" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -197,10 +191,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9700000" />
+    <option name="totallyTimeSpent" value="10041000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="514" y="-1057" width="1920" height="1057" extended-state="6" />
+    <frame x="517" y="-1034" width="1920" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25292864" />
@@ -288,8 +282,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        <state relative-caret-position="30">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
